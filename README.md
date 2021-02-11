@@ -2,5 +2,5 @@
 
 Portifólio com o design antigo
 
-![design antigo](./Captura de tela de 2021-02-08 20-51-34.png)
+![design antigo](https://github.com/devhector/old-portfolio/blob/main/Captura%20de%20tela%20de%202021-02-08%2020-51-34.png)
 
